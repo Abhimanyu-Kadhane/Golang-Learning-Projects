@@ -1,0 +1,15 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build output
+go-server
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
